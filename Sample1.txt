@@ -1,1 +1,2 @@
 Hi there, line in Sample1.txt
+line 2

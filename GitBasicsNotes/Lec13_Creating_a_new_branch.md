@@ -12,8 +12,11 @@ So it is better to create a new branch (which will have all the directories/file
 
 2. git checkout branch_name : switch to the specified branch
 
-3. git branch : verifying the present branch you are in
+3. git branch : gives a list of all the branches in the local repo as well as the info regarding the current branch you are in.
+   git branch -all : same as above, but it also lists all the branches in the remote repo as well.
 
-4. git push origin new_branch_name: push your changes/ updates to the specified branch in the remote repo.
+5. git push origin new_branch_name: push your changes/ updates to the specified branch in the remote repo.
+
+6. git branch -d branch_name (or git branch --delete branch_name) : deletes the specified branch from the local repo.
 
 

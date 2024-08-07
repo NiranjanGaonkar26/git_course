@@ -6,7 +6,7 @@ So it is better to create a new branch (which will have all the directories/file
 
 	i. git checkout -b new_branch_name            (old version)
 				or
-	ii. git switch --create new_branch_name     (new version, short form is git switch --c new_branch_name)
+	ii. git switch --create new_branch_name     (new version, short form is git switch -c new_branch_name)
 
 	Both these commands create a branch and switch to that branch.
 

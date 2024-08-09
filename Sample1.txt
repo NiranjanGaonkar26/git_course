@@ -1,3 +1,3 @@
 Hi there, line in Sample1.txt
-line 2
+line 2 (edited in remote repo)
 line 3 (edited in remote repo)

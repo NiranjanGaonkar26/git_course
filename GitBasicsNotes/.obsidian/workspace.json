@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "40227fb44caeeb1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d73dc87446672b9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1108d8e0a1225f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lec9_Github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81d0986e18421f4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lec11_Git_Tag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33008cefa3f32a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc33ad40fe722d57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49ee9c6ad00759ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "159d95182d0ff54b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3acadbe9984bf55d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18049b197552135c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ded3c385634a863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17e90e508c4562d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lec11_Git_Tag.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9748cfd8b7119df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lec11_Git_Tag.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "533f705abff445a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "17ccfa8395711c5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lec11_Git_Tag.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "81d0986e18421f4e",
+  "lastOpenFiles": [
+    "Lec20_Git_time_travel.md",
+    "Lec17_Git_Merge.md",
+    "Lec11_Git_Tag.md",
+    "Lec19_Merge_Conflict.md",
+    "Lec18_Git_Rebase.md",
+    "Lec16_How_a_Git_Branch_works..md",
+    "Lec13_Creating_a_new_branch.md",
+    "Lec12_Git_Clone_a_Project.md",
+    "Lec9_Github.md",
+    "Lec11_GitTag"
+  ]
+}

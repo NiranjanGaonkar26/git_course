@@ -1,5 +1,5 @@
 A new file created primarily in the ExpBranch2
-line2 added
+line2 added (line 2 edited in remote repo)
 
 I will create a merge conflict with main using this line.
 I have resolved the conflict.

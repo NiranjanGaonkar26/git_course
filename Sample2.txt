@@ -1,2 +1,4 @@
 A new file created primarily in the ExpBranch2
 line2 added
+
+This will create a conflict when I merge ExpBranch2 with this.

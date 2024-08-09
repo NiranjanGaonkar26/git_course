@@ -9,4 +9,8 @@ Commands related to this:
 1. git stash
 2. git stash list : All the modifications stashed away by the above command can be listed with this command.
 3. git stash show : inspect all the modification stashed away by git stash command.
-4. git stash apply --index : restore the modification (potentially on top of a different commit) with this command.
+4. git stash apply stash_index : restore the modification (potentially on top of a different commit) with this command.
+
+
+==Note:== the stash is maintained as a stack, git stash pop : pops the top stash and reapplies it.
+git stash apply stash_index: reapplies the specified stash and does not pop the top.
